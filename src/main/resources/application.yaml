@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      database: spring-reactive
+      host: localhost
+      port: 27017
+  application:
+    name: spring-reactive-mongo-crud
+
+server:
+  port: 9292
